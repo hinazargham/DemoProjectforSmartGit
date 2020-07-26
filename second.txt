@@ -1,0 +1,1 @@
+This second file is also created locally for SmartGit
