@@ -1,1 +1,5 @@
 This second file is also created locally for SmartGit
+
+
+add more details in second.txt
+updated version

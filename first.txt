@@ -1,1 +1,4 @@
 This file is created locally for SmartGit
+
+add more details
+updated version
